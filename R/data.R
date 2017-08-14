@@ -13,11 +13,19 @@
 #'   \item{un_region_code}{United Nations' (UN) Standard Region Code.}
 #'   \item{un_country_code}{United Nations' (UN) Standard Country Code.}
 #' }
-#' @details The Standard Australian Classification of Countries (SACC) provides guidelines for consistent collection, aggregation and dissemination of statistics by country. The classification is used by the Australian Bureau of Statistics (ABS) when collecting, aggregating and disseminating data relating to characteristics such as birthplace and country of residence. In addition to its use by the ABS, the SACC is also designed for use in the broader Australian statistical community, including government agencies, private companies and community organisations.
+#' @details The Standard Australian Classification of Countries (SACC) provides guidelines for
+#'   consistent collection, aggregation and dissemination of statistics by country. The classification
+#'   is used by the Australian Bureau of Statistics (ABS) when collecting, aggregating and disseminating
+#'   data relating to characteristics such as birthplace and country of residence. In addition to its
+#'   use by the ABS, the SACC is also designed for use in the broader Australian statistical community,
+#'   including government agencies, private companies and community organisations.
 #' 
-#' The country names within the SACC reflect country titles recognised by the Australian Government. The SACC reflects the official recognition of country titles by the Australian Government, which the ABS updates as necessary to ensure the classification remains current.
+#'   The country names within the SACC reflect country titles recognised by the Australian Government.
+#'   The SACC reflects the official recognition of country titles by the Australian Government, which
+#'   the ABS updates as necessary to ensure the classification remains current.
 #' 
-#' For further details, see: \href{http://www.abs.gov.au/ausstats/abs@.nsf/mf/1269.0}{Standard Australian Classification of Countries (SACC).
+#'   For further details, see:
+#'   \href{http://www.abs.gov.au/ausstats/abs@.nsf/mf/1269.0}{Standard Australian Classification of Countries (SACC)}.
 #' @source The SACC is produced and maintained by the Australian Bureau of Statistics. 
 #' @references Australian Bureau of Statistics 2016, \ital{Standard Australian Classification of Countries (SACC), 2016}, Catalogue no. 1269.0, ABS, Canberra. URL: \url{http://www.abs.gov.au/ausstats/abs@.nsf/mf/1269.0}.
 "sacc2016"
