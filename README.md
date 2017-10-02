@@ -1,10 +1,9 @@
-# sacc2016
+# abs.sacc
 
-Standard Australian Classification of Countries 2016
+Standard Australian Classification of Countries (SACC) 2016
 
 ## Installation
 
 ```r
-devtools::install_github("mitcda/sacc2016")
+devtools::install_github("mitcda/abs.sacc")
 ```
-

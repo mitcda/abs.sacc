@@ -1,6 +1,6 @@
 #' @title Standard Australian Classification of Countries 2016
 #' @description  A data set containing the Standard Australian Classification of Countries (SACC), 2016.
-#' @format Data set \code{sacc2016} contains the 2016 SACC, which contains 255 individual country codes. The data sets \code{saccCorr_2016_2011} and \code{saccCorr_2011_2016} provide concordances between the 2016 SACC and 2011 SACC.  The datasets contain the following variables:
+#' @format Data set \code{sacc_2016} contains the 2016 SACC, which contains 255 individual country codes. The data sets \code{saccCorr_2016_2011} and \code{saccCorr_2011_2016} provide concordances between the 2016 SACC and 2011 SACC.  The datasets contain the following variables:
 #' \describe{
 #'   \item{major_group_code}{The major group level is the highest level of the classification. The SACC contains nine major groups, each containing between two and six geographically proximate minor groups.}
 #'   \item{major_group_name}{Major group level name.}
@@ -27,7 +27,7 @@
 #'   For further details, see:
 #'   \href{http://www.abs.gov.au/ausstats/abs@.nsf/mf/1269.0}{Standard Australian Classification of Countries (SACC)}.
 #' @source The SACC is produced and maintained by the Australian Bureau of Statistics. 
-#' @references Australian Bureau of Statistics 2016, \ital{Standard Australian Classification of Countries (SACC), 2016}, Catalogue no. 1269.0, ABS, Canberra. URL: \url{http://www.abs.gov.au/ausstats/abs@.nsf/mf/1269.0}.
-"sacc2016"
+#' @references Australian Bureau of Statistics 2016, \emph{Standard Australian Classification of Countries (SACC), 2016}, Catalogue no. 1269.0, ABS, Canberra. URL: \url{http://www.abs.gov.au/ausstats/abs@.nsf/mf/1269.0}.
+"sacc_2016"
 "saccCorr_2016_2011"
 "saccCorr_2011_2016"
